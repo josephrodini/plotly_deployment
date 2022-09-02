@@ -24,15 +24,15 @@ This project is intended to help Rosa, a biological researcher hoping to find th
 
 ## Deliverable One
 
-Using knowledge of JavaScript, Plotly, and D3.js, a horizontal bar chart was created displaying the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart displays the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart. See [an image of the chart]().
+Using knowledge of JavaScript, Plotly, and D3.js, a horizontal bar chart was created displaying the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart displays the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart. See [an image of the chart](https://github.com/josephrodini/plotly_deployment/blob/main/Images/bbbarchart.PNG).
 
 ## Deliverable Two
 
-Using knowledge of JavaScript, Plotly, and D3.js, a bubble chart was created that displays the top 10 bacteria species by ID and size. See [an image of the chart]().
+Using knowledge of JavaScript, Plotly, and D3.js, a bubble chart was created that displays the top 10 bacteria species by ID and size. See [an image of the chart](https://github.com/josephrodini/plotly_deployment/blob/main/Images/bbbubblechart.PNG).
 
 ## Deliverable Three
 
-Using knowledge of JavaScript, Plotly, and D3.js, a gauge chart was created displaying the weekly washing frequency's value and displays the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. See [an image of the chart]().
+Using knowledge of JavaScript, Plotly, and D3.js, a gauge chart was created displaying the weekly washing frequency's value and displays the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. See [an image of the chart](https://github.com/josephrodini/plotly_deployment/blob/main/Images/bbgaugechart.PNG).
 
 ## Deliverable Four
 
@@ -40,7 +40,7 @@ Using HTML and Bootstrap, the webpage for the project was customized in three wa
 - An image was added to the jumbotron.
 - A background color was added.
 - More information about the project was added as a paragraph on the page.
-See [a screenshot of the page as a whole]().
+See [a screenshot of the page as a whole](https://github.com/josephrodini/plotly_deployment/blob/main/Images/bbsitewhole.PNG).
 
 ## Summary
 
